@@ -16,10 +16,11 @@
 title: Essence of Chaos
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Site description 
+  I'm a full-stack developer, bitcoin enthusiast, and tech entrepreneur. My focus
+  revolves around emerging internet technologies like blockchains and smart contracts.  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://essenceofchaos.github.io/"
-twitter_username: jekyllrb
+twitter_username: webteamu
 github_username:  EssenceOfChaos
 
 # Build settings
