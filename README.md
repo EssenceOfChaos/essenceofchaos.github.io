@@ -1,4 +1,4 @@
-# Welcome to my Portfolio
+# :large_orange_diamond: Welcome to my Portfolio :large_orange_diamond:
 
 ## Identicon Generator
 
