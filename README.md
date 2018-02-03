@@ -1,11 +1,11 @@
-# :large_orange_diamond: Welcome to my Portfolio :large_orange_diamond:
+# Welcome to my Portfolio :bowtie:
 
 ## Identicon Generator
 
 ![Identicon Image](https://i.imgur.com/CFVt84cs.png)
 
 Written in Elixir and hosted on [bitbucket](https://bitbucket.org/EssenceOfChaos/identicon).
-_Pass in a string and receive an MD5 hashed identicon PNG image_
+Pass in a string and receive an MD5 hashed identicon PNG image.
 
 ---
 
