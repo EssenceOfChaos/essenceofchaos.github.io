@@ -5,16 +5,7 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](another-page).
-[About](about)
-
-There should be whitespace between paragraphs.
-
-# [](#header-1)Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+My degree is in business but my passion is in emerging internet technologies.
 
 ## [](#header-2)Header 2
 
@@ -22,47 +13,20 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### [](#header-3)Header 3
+### [](#header-3)There's More!
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-	dateformat.i18n = require('./lang/' + l);
-	return true;
-};
-```
+You can find some articles I've written on [Medium](https://www.youtube.com/channel/UCV9peDAcHi2WOSEkghABzJw)
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+Sometimes I post videos on [Youtube](https://www.youtube.com/channel/UCV9peDAcHi2WOSEkghABzJw)
 
-###### [](#header-6)Header 6
+I've written several programming books on the topics of [Angular, Elixir, and Ruby.](https://www.gitbook.com/@essenceofchaos)
 
 ### There's a horizontal rule below this.
 
 ---
 
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### Small image
-
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
 ```
-The final element.
+This blog is a work in progress!
 ```
+
+{% include footer.html %}
