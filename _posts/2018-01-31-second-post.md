@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Second Post"
 date:   2018-01-31 12:30:00 -0500
 categories:
