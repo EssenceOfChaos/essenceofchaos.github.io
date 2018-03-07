@@ -55,6 +55,5 @@ This To-do list application stores user input as "to-do" items. Tasks are persis
 ![GraphQL Image Icon](https://i.imgur.com/S5jNitzs.png)
 
 An Elixir/Phoenix application with a GraphQL API. Users can query and mutate URL's. The UI is created with the in-browser IDE, Graphiql. Source code on [Github](https://github.com/EssenceOfChaos/community).
-![screenshot](https://github.com/EssenceOfChaos/community/blob/master/assets/images/screenshot.png)
 
 ---
